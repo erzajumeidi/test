@@ -1,0 +1,99 @@
+.root:global(.__wab_instance) {
+  position: relative;
+}
+.freeBox__ggzGa {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: flex-start;
+}
+.freeBox__aBz2G {
+  flex-direction: column;
+  display: flex;
+}
+.freeBox__aBz2G > :global(.__wab_flex-container) {
+  flex-direction: column;
+  justify-content: center;
+  margin-top: calc(0px - 8px);
+  height: calc(100% + 8px);
+}
+.freeBox__aBz2G > :global(.__wab_flex-container) > *,
+.freeBox__aBz2G > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.freeBox__aBz2G > :global(.__wab_flex-container) > picture > img,
+.freeBox__aBz2G
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-top: 8px;
+}
+.slotTargetName {
+  font-size: 18px;
+  font-weight: 700;
+  text-align: center;
+  color: var(--token-NEon4Y--Z);
+}
+.text__ncjfk {
+  font-size: 48px;
+}
+.freeBox__cBhA {
+  flex-direction: column;
+  display: flex;
+  position: relative;
+}
+.freeBox__cBhA > :global(.__wab_flex-container) {
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: stretch;
+  margin-top: calc(0px - 8px);
+  height: calc(100% + 8px);
+}
+.freeBox__cBhA > :global(.__wab_flex-container) > *,
+.freeBox__cBhA > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.freeBox__cBhA > :global(.__wab_flex-container) > picture > img,
+.freeBox__cBhA
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-top: 8px;
+}
+.bullet__qRdNm:global(.__wab_instance) {
+  position: relative;
+}
+.bullet__iUqqW:global(.__wab_instance) {
+  position: relative;
+}
+.bullet__f6Q49:global(.__wab_instance) {
+  position: relative;
+}
+.freeBox__cPb9V {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  margin-top: calc(13px + 8px) !important;
+}
+.button___7LG9:global(.__wab_instance) {
+  position: relative;
+}
+.svg__gkMk3 {
+  position: relative;
+  object-fit: cover;
+  width: 24px;
+  height: 24px;
+}
+.svg__nsMgv {
+  position: relative;
+  object-fit: cover;
+  width: 24px;
+  height: 24px;
+}
+.svg__hpxGh {
+  width: 16px;
+  height: 16px;
+  position: relative;
+  object-fit: cover;
+}
